@@ -49,6 +49,6 @@ cd Web_dev_project
 Contact
 For any questions or suggestions, feel free to reach out:
 
-Name: Celestin Fernandes
-GitHub: CelestinFernandes
-Email: celestin.fernandes21@st.niituniversity.in
+- Name: Celestin Fernandes
+- GitHub: CelestinFernandes
+- Email: celestin.fernandes21@st.niituniversity.in
